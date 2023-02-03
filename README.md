@@ -1,7 +1,10 @@
 # README Generator
 
  ## Description
-  A README generator.
+  A "semi-professional" README generator using node functionality to fill inputs.
+  
+  ## Video
+  [![README video](./assets/READMEgen.png 'Video of README generator application')](https://drive.google.com/file/d/13jhvdf14Tp04C1fNAmuSctqAAMEGs7Tx/view)
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,16 +15,16 @@
   * [License](#license)
 
   ## Installation
-  test
+  Install inquirer 8.2.4 using npm and run index.js from Terminal.
   
   ## Usage
-  test
+  After running "node index.js" you will be prompted with a series of user inputs. Your inputs will fill each respective section in the generated README file.
 
   ## Contributing
-  N/A
+  [Contributor Covenant](https://www.contributor-covenant.org/) provides guidelines for Contributions to this project.
   
   ## Tests
-  test
+  To test this code, run the following command:  ```npm test```
   
   ## Questions
   If you have any questions, please contact me at agileclint@gmail.com or visit my GitHub profile at [pocketclint](https://www.github.com/pocketclint).
