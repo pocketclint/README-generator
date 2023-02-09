@@ -4,7 +4,7 @@
   A "semi-professional" README generator using node functionality to fill inputs.
   
   ## Video
-  [![README video](./assets/READMEgen.png 'Video of README generator application')](https://drive.google.com/file/d/13jhvdf14Tp04C1fNAmuSctqAAMEGs7Tx/view)
+  [![README video](./assets/READMEgen.png 'Video of README generator application')](https://drive.google.com/file/d/13jhvdf14Tp04C1fNAmuSctqAAMEGs7Tx/view)  
   [VIDEO LINK](https://drive.google.com/file/d/13jhvdf14Tp04C1fNAmuSctqAAMEGs7Tx/view)
 
   ## Table of Contents
